@@ -1,6 +1,6 @@
 import pattern_1
 import pattern_2
-import pattern_3
+
 
 
 def quizu(x, y):
